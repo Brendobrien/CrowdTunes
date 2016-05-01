@@ -1,4 +1,4 @@
-# crowd-tunes
+# CrowdTunes
 This project was created while working for CrowdTunes, a start-up in Durham, NC which is apart of the American Underground.
 
 I utilized jQuery, Bootstrap, and Chart.js to create a data dashboard that visually represents noteworthy statistics.
